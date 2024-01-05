@@ -19,8 +19,9 @@
    ### 여행지 주요 맛집
    
    #### 이치란 라멘
-![일본라멘](../image/김범규3번.jpg)  
+   [일본라멘](../image/김범규3번.jpg)  
 
    일본의 유명한 라멘 체인점인데, 식상하다고 생각하실 수 있겠지만, 돈코츠라멘이 진짜 맛있습니다. 일본여행을 갔을 때, 진짜 거의 하루에 한번은 꼭 먹으러 간 곳입니다. 구글링해서 갔던 다른곳들은 가면 주변 손님들이 전부다 한국말하는 사람들 밖에 없는데 여긴 달랐습니다... 모두가 꼭 드셔봤으면 좋겠습니다. 
 
-  [홈으로](../README.md)
+   
+[![LinkedIn Badge](https://img.shields.io/badge/mainpage-CCC5E4?style=flat-square&logo=homeadvisor&logoColor=838386&link=www.naver.com)](www.nvaer.com)
