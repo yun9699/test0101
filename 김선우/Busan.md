@@ -17,3 +17,5 @@
 예전에 인기가 많았었다.
 
 ![부산](../image/김선우2번.jpg)
+
+[![LinkedIn Badge](https://img.shields.io/badge/mainpage-CCC5E4?style=flat-square&logo=homeadvisor&logoColor=838386&link=www.naver.com)](../README.md)
