@@ -27,4 +27,4 @@
 <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8f/f7/c8/la-prima-stanza-ingresso.jpg?w=800&h=600&s=1" width="560" height="350"/>
 
 
-<img src="https://img.shields.io/badge/mainpage-CCC5E4?style=flat-square&logo=homeadvisor&logoColor=838386"/>
+<img src="https://img.shields.io/badge/mainpage-CCC5E4?style=flat-square&logo=homeadvisor&logoColor=838386&link=(README.md)"/>
