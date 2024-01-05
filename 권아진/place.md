@@ -1,4 +1,4 @@
-## [이탈리아]  피렌체  
+## ✈️ 이탈리아 | 피렌체  
 
 <img src="https://d3b39vpyptsv01.cloudfront.net/photo/1/2/73f4dff6ec2ba2efa1208598a9566e47.jpg" width="560" height="350"/>
 
@@ -22,7 +22,8 @@
 ***
 
 ### 🍴 음식점 | Trattoria ZaZa  
-이탈리아 피렌체에서 가장 인기있는 레스토랑으로 티본스테이크가 유명하다.  
+이탈리아 피렌체에서 가장 인기있는 레스토랑으로 티본스테이크가 유명합니다.
+사람이 매우 많으니 미리 예약하고 가는 것을 추천합니다.
 
 <img src="https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/8f/f7/c8/la-prima-stanza-ingresso.jpg?w=800&h=600&s=1" width="560" height="350"/>
 
