@@ -1,10 +1,9 @@
-# test0101
+# 발표 주제
 
+# 조이름 팔색조
 
-# 나도 한줄 작성
+### 조원 이윤창, 김선우, 김범규, 권아진
 
-# test0101
-[링크](https://docs.google.com/document/d/1yURHYkUiyN6QWKqPGLBQjJHwBxi-iu-8xmD0xWvMAnk/edit?usp=sharing)
+자기소개 반갑습니다 김선우 입니다. 
 
-
-test
+[여행지](김선우/여행지.md)
