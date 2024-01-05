@@ -16,7 +16,7 @@
 이탈리아에서 가장 중요한 박물관 중 하나이자 가장 큰 미술관 중 한 곳으로도 알려져 있다.  
 이탈리아 르네상스 시기의 뛰어난 작품들을 소장하고 있으며, 대표작으로 비너스의 탄생이 있다.  
 
-<img src="https://www.windsortour.co.kr/images/area_img/IT/FLR/ITFLR3200203_0008.jpg?CMD=resize&width=100%" width="460" height="300"/>
+<img src="https://muttraction.co.kr/wp-content/uploads/2023/09/matteo-lezzi-Ae-ZPRO-Bk4-unsplash-1-700x393-optimized.jpg" width="460" height="300"/>
 
 
 ### [음식점]   Trattoria ZaZa  
